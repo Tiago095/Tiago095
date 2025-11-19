@@ -1,8 +1,7 @@
-<h1 align="center">👋 Olá, eu sou o Tiago</h1>
+<h1 align="center">👋 Hello, I'm Tiago</h1>
 
 <p align="center">
-  🔹 Estudante / Desenvolvedor<br>
-  🔹 Sempre a evoluir e a aprender novas tecnologias
+  I am a Computer Engineering student at UTAD(Universidade de Trás-dos-Montes e Alto Douro), in my 3rd year of my degree.I enjoy developing new projects to improve my skills and learn something new every day. I always try to transform my ideas into real-world solutions and bring them to life through clean code.
 </p>
 
 ---
@@ -22,16 +21,6 @@
 
 </div>
 
----
-
-## 🗂️ Contribuições em Animação (Snake)
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tiago095/Tiago095/output/github-contribution-grid-snake.svg" alt="snake animation">
-</div>
-
----
-
 ## 🧠 Tecnologias que utilizo
 
 ### 💻 Linguagens
@@ -41,11 +30,11 @@
 
 ### 🛠️ Ferramentas
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,sqlserver,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,figma" />
 </p>
 
 ---
 
 ## ✨ Mensagem final
-> “O importante é nunca parar de aprender.”
+> “The important thing is to never stop learning.”
 
