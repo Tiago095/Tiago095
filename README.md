@@ -6,35 +6,27 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 
 <div align="center">
 
   <!-- Estatísticas gerais -->
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Tiago095&show_icons=true&theme=tokyonight&hide_border=true" />
 
-  <!-- Linguagens mais usadas -->
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiago095&layout=compact&theme=tokyonight&hide_border=true" />
-
-  <!-- Streak -->
-  <img height="170" src="https://streak-stats.demolab.com?user=Tiago095&theme=tokyonight&hide_border=true" />
-
 </div>
 
-## 🧠 Tecnologias que utilizo
-
-### 💻 Linguagens
+### 💻 Languages
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,html,css,haskell" />
 </p>
 
-### 🛠️ Ferramentas
+### 🛠️ Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,figma" />
 </p>
 
 ---
 
-## ✨ Mensagem final
+## ✨ Final Menssage
 > “The important thing is to never stop learning.”
 
