@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, I'm Tiago</h1>
 
 <p align="center">
-  I am a Computer Engineering student at UTAD(Universidade de Trás-dos-Montes e Alto Douro), in my 3rd year of my degree.I enjoy developing new projects to improve my skills and learn something new every day. I always try to transform my ideas into real-world solutions and bring them to life through clean code.
+  I am a Computer Engineering student, in my 3rd year of my degree.I enjoy developing new projects to improve my skills and learn something new every day. I always try to transform my ideas into real-world solutions and bring them to life through clean code.
 </p>
 
 ---
