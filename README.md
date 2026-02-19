@@ -25,8 +25,4 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,figma" />
 </p>
 
----
-
-## ✨ Final Menssage
-> “The important thing is to never stop learning.”
 
