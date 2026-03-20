@@ -48,18 +48,6 @@ class Tiago:
 
 ---
 
-## 📬 Get In Touch
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tiago-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/tiago-silva-ribeiro-5000b73b7/))
-
-*Feel free to reach out — always open to connect, collaborate, or just talk tech!*
-
-</div>
-
----
-
 ## 🚀 What I'm Up To
 
 - 🎓 Finishing my 3rd year of Computer Engineering
