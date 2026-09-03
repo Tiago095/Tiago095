@@ -1,66 +1,37 @@
 <div align="center">
 
-```
-████████╗██╗ █████╗  ██████╗  ██████╗
-╚══██╔══╝██║██╔══██╗██╔════╝ ██╔═══██╗
-   ██║   ██║███████║██║  ███╗██║   ██║
-   ██║   ██║██╔══██║██║   ██║██║   ██║
-   ██║   ██║██║  ██║╚██████╔╝╚██████╔╝
-   ╚═╝   ╚═╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝
-```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=FFB86C&center=true&vCenter=true&width=480&lines=Tiago+%7C+Computer+Engineer;Turning+ideas+into+real+solutions;Clean+code+%C2%B7+Clear+thinking)](https://git.io/typing-svg)
 
-### Computer Engineering Student · Builder · Problem Solver
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Turning+ideas+into+real+solutions;Learning+something+new+every+day;Clean+code+%7C+Clear+thinking)](https://git.io/typing-svg)
+<sub>Computer Engineer</sub>
 
 </div>
 
----
+<br>
 
-## 👨‍💻 About Me
+### About
 
-```python
-class Tiago:
-    degree     = "Computer Engineering · 3rd Year"
-    interests  = ["Systems", "Web Dev", "Problem Solving"]
-    currently  = "Building projects · Sharpening skills"
-    philosophy = "Make it work, make it clean, make it yours"
-```
+I'm a Computer Engineer who enjoys turning ideas into real-world solutions. Every project is a chance to learn something new and write better code than yesterday.
 
-> I'm a Computer Engineering student who enjoys turning ideas into real-world solutions.
-> Every project is a chance to learn something new and write better code than yesterday.
+Now looking for opportunities to build things that matter, while keeping personal projects going and sharpening my skills in systems, web development, and problem solving — one commit at a time.
 
----
+<br>
 
-## 🛠️ Tech Stack
-
-**Languages**
+### Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,html,css,js,haskell&theme=dark" />
 </p>
-
-**Tools & Platforms**
-
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,figma&theme=dark" />
 </p>
 
----
+<br>
 
-## 🚀 What I'm Up To
+### Currently
 
-- 🎓 Finishing my 3rd year of Computer Engineering
-- 🔨 Building personal projects to grow as a developer
-- 📖 Always learning — one commit at a time
-- 🧠 Exploring new languages, tools, and ideas
+- Computer Engineering graduate
+- Open to new opportunities
+- Building personal projects to grow as a developer
+- Always learning — one commit at a time
 
----
-
-<div align="center">
-
-*"Any fool can write code that a computer can understand.*
-*Good programmers write code that humans can understand."*
-— Martin Fowler
-
-</div>
+<br>
