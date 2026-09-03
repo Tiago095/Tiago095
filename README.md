@@ -41,7 +41,7 @@ Currently open to new opportunities, while keeping personal projects alive in th
 ### [Life RPG](https://github.com/Tiago095/Life_Rpg)
 Turns everyday tasks into an RPG: levels, XP, quests and loot, with missions generated dynamically by an LLM (Llama 3.2) running locally in the browser via WebGPU.
 
-<img src="https://img.shields.io/badge/React-FF8E4E?style=flat-square&logo=react&logoColor=0d1117"/> <img src="https://img.shields.io/badge/Node.js-FF9251?style=flat-square&logo=nodedotjs&logoColor=0d1117"/> <img src="https://img.shields.io/badge/Express-FF9553?style=flat-square&logo=express&logoColor=0d1117"/> <img src="https://img.shields.io/badge/WebLLM-FF9855?style=flat-square&logoColor=0d1117"/> <img src="https://img.shields.io/badge/JWT-FF9B57?style=flat-square&logo=jsonwebtokens&logoColor=0d1117"/>
+<img src="https://img.shields.io/badge/React-FFA25C?style=flat-square&logo=react&logoColor=0d1117"/> <img src="https://img.shields.io/badge/Node.js-FFA25C?style=flat-square&logo=nodedotjs&logoColor=0d1117"/> <img src="https://img.shields.io/badge/Express-FFA25C?style=flat-square&logo=express&logoColor=0d1117"/> <img src="https://img.shields.io/badge/WebLLM-FFA25C?style=flat-square&logoColor=0d1117"/> <img src="https://img.shields.io/badge/JWT-FFA25C?style=flat-square&logo=jsonwebtokens&logoColor=0d1117"/>
 
 ### [Distributed System — One Health](https://github.com/Tiago095/Sistema_Distribuido)
 A distributed infrastructure for urban environmental monitoring: a network of sensors, gateways and servers that collect, process and analyze environmental data (temperature, humidity, PM2.5).
