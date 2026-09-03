@@ -19,7 +19,7 @@ Currently open to new opportunities, while keeping personal projects alive in th
 ## Stack
 
 <p>
-<img src="https://img.shields.io/badge/C-FF6B35?style=for-the-badge&logo=c&logoColor=0d1117"/>
+<img src="https://img.shields.io/badge/C-FF6B35"/>
 <img src="https://img.shields.io/badge/C++-FF6E37?style=for-the-badge&logo=cplusplus&logoColor=0d1117"/>
 <img src="https://img.shields.io/badge/C%23-FF713A?style=for-the-badge&logo=csharp&logoColor=0d1117"/>
 <img src="https://img.shields.io/badge/Python-FF753C?style=for-the-badge&logo=python&logoColor=0d1117"/>
@@ -60,7 +60,6 @@ A used-vehicle marketplace with buyer, seller and admin profiles — advanced se
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Tiago095-FFB86C?style=for-the-badge&logo=github&logoColor=0d1117)](https://github.com/Tiago095)
-<!-- add LinkedIn / email / personal site here, if you want -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB86C,100:FF6B35&height=100&section=footer" width="100%"/>
 
