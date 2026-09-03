@@ -19,7 +19,7 @@ Currently open to new opportunities, while keeping personal projects alive in th
 ## Stack
 
 <p>
-<img src="https://img.shields.io/badge/C-FF6B35?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/C-FF6B35?style=for-the-badge&logo=c&logoColor=0d1117"/>
 <img src="https://img.shields.io/badge/C++-FF6E37?style=for-the-badge&logo=cplusplus&logoColor=0d1117"/>
 <img src="https://img.shields.io/badge/C%23-FF713A?style=for-the-badge&logo=csharp&logoColor=0d1117"/>
 <img src="https://img.shields.io/badge/Python-FF753C?style=for-the-badge&logo=python&logoColor=0d1117"/>
