@@ -20,18 +20,18 @@ Currently open to new opportunities, while keeping personal projects alive in th
 
 <p>
 <img src="https://img.shields.io/badge/C-FF6B35?style=for-the-badge&logo=c&logoColor=0d1117"/>
-<img src="https://img.shields.io/badge/C++-FF7A40?style=for-the-badge&logo=cplusplus&logoColor=0d1117"/>
-<img src="https://img.shields.io/badge/C%23-FF8A4B?style=for-the-badge&logo=csharp&logoColor=0d1117"/>
-<img src="https://img.shields.io/badge/Python-FF9956?style=for-the-badge&logo=python&logoColor=0d1117"/>
-<img src="https://img.shields.io/badge/JavaScript-FFA961?style=for-the-badge&logo=javascript&logoColor=0d1117"/>
-<img src="https://img.shields.io/badge/Haskell-FFB86C?style=for-the-badge&logo=haskell&logoColor=0d1117"/>
+<img src="https://img.shields.io/badge/C++-FF6E37?style=for-the-badge&logo=cplusplus&logoColor=0d1117"/>
+<img src="https://img.shields.io/badge/C%23-FF713A?style=for-the-badge&logo=csharp&logoColor=0d1117"/>
+<img src="https://img.shields.io/badge/Python-FF753C?style=for-the-badge&logo=python&logoColor=0d1117"/>
+<img src="https://img.shields.io/badge/JavaScript-FF783E?style=for-the-badge&logo=javascript&logoColor=0d1117"/>
+<img src="https://img.shields.io/badge/Haskell-FF7B40?style=for-the-badge&logo=haskell&logoColor=0d1117"/>
 </p>
 <p>
-<img src="https://img.shields.io/badge/Figma-FF6B35?style=for-the-badge&logo=figma&logoColor=0d1117"/>
-<img src="https://img.shields.io/badge/MySQL-FF8547?style=for-the-badge&logo=mysql&logoColor=0d1117"/>
-<img src="https://img.shields.io/badge/Git-FF9E5A?style=for-the-badge&logo=git&logoColor=0d1117"/>
-<img src="https://img.shields.io/badge/GitHub-FFB86C?style=for-the-badge&logo=github&logoColor=0d1117"/>
-<img src="https://img.shields.io/badge/VS%20Code-FF6B35?style=for-the-badge&logo=visualstudiocode&logoColor=0d1117"/>
+<img src="https://img.shields.io/badge/Figma-FF7E43?style=for-the-badge&logo=figma&logoColor=0d1117"/>
+<img src="https://img.shields.io/badge/MySQL-FF8145?style=for-the-badge&logo=mysql&logoColor=0d1117"/>
+<img src="https://img.shields.io/badge/Git-FF8547?style=for-the-badge&logo=git&logoColor=0d1117"/>
+<img src="https://img.shields.io/badge/GitHub-FF884A?style=for-the-badge&logo=github&logoColor=0d1117"/>
+<img src="https://img.shields.io/badge/VS%20Code-FF8B4C?style=for-the-badge&logo=visualstudiocode&logoColor=0d1117"/>
 </p>
 
 <br>
@@ -41,17 +41,17 @@ Currently open to new opportunities, while keeping personal projects alive in th
 ### [Life RPG](https://github.com/Tiago095/Life_Rpg)
 Turns everyday tasks into an RPG: levels, XP, quests and loot, with missions generated dynamically by an LLM (Llama 3.2) running locally in the browser via WebGPU.
 
-<img src="https://img.shields.io/badge/React-FF6B35?style=flat-square&logo=react&logoColor=0d1117"/> <img src="https://img.shields.io/badge/Node.js-FF8547?style=flat-square&logo=nodedotjs&logoColor=0d1117"/> <img src="https://img.shields.io/badge/Express-FF9E5A?style=flat-square&logo=express&logoColor=0d1117"/> <img src="https://img.shields.io/badge/WebLLM-FFB86C?style=flat-square&logoColor=0d1117"/> <img src="https://img.shields.io/badge/JWT-FF6B35?style=flat-square&logo=jsonwebtokens&logoColor=0d1117"/>
+<img src="https://img.shields.io/badge/React-FF8E4E?style=flat-square&logo=react&logoColor=0d1117"/> <img src="https://img.shields.io/badge/Node.js-FF9251?style=flat-square&logo=nodedotjs&logoColor=0d1117"/> <img src="https://img.shields.io/badge/Express-FF9553?style=flat-square&logo=express&logoColor=0d1117"/> <img src="https://img.shields.io/badge/WebLLM-FF9855?style=flat-square&logoColor=0d1117"/> <img src="https://img.shields.io/badge/JWT-FF9B57?style=flat-square&logo=jsonwebtokens&logoColor=0d1117"/>
 
 ### [Distributed System — One Health](https://github.com/Tiago095/Sistema_Distribuido)
 A distributed infrastructure for urban environmental monitoring: a network of sensors, gateways and servers that collect, process and analyze environmental data (temperature, humidity, PM2.5).
 
-<img src="https://img.shields.io/badge/C%23-FF6B35?style=flat-square&logo=csharp&logoColor=0d1117"/> <img src="https://img.shields.io/badge/RabbitMQ-FF8547?style=flat-square&logo=rabbitmq&logoColor=0d1117"/> <img src="https://img.shields.io/badge/RPC-FF9E5A?style=flat-square&logoColor=0d1117"/> <img src="https://img.shields.io/badge/TCP%2FUDP-FFB86C?style=flat-square&logoColor=0d1117"/>
+<img src="https://img.shields.io/badge/C%23-FF9E5A?style=flat-square&logo=csharp&logoColor=0d1117"/> <img src="https://img.shields.io/badge/RabbitMQ-FFA25C?style=flat-square&logo=rabbitmq&logoColor=0d1117"/> <img src="https://img.shields.io/badge/RPC-FFA55E?style=flat-square&logoColor=0d1117"/> <img src="https://img.shields.io/badge/TCP%2FUDP-FFA861?style=flat-square&logoColor=0d1117"/>
 
 ### [AutoMatch — Used Vehicle Marketplace](https://github.com/Tiago095/auto-marketplace)
 A used-vehicle marketplace with buyer, seller and admin profiles — advanced search, reservations, messaging and a full backoffice.
 
-<img src="https://img.shields.io/badge/ASP.NET%20Core-FF6B35?style=flat-square&logo=dotnet&logoColor=0d1117"/> <img src="https://img.shields.io/badge/Entity%20Framework-FF8547?style=flat-square&logoColor=0d1117"/> <img src="https://img.shields.io/badge/SQL%20Server-FF9E5A?style=flat-square&logo=microsoftsqlserver&logoColor=0d1117"/> <img src="https://img.shields.io/badge/MVC-FFB86C?style=flat-square&logoColor=0d1117"/>
+<img src="https://img.shields.io/badge/ASP.NET%20Core-FFAB63?style=flat-square&logo=dotnet&logoColor=0d1117"/> <img src="https://img.shields.io/badge/Entity%20Framework-FFAE65?style=flat-square&logoColor=0d1117"/> <img src="https://img.shields.io/badge/SQL%20Server-FFB267?style=flat-square&logo=microsoftsqlserver&logoColor=0d1117"/> <img src="https://img.shields.io/badge/MVC-FFB56A?style=flat-square&logoColor=0d1117"/>
 
 <br>
 
@@ -59,7 +59,7 @@ A used-vehicle marketplace with buyer, seller and admin profiles — advanced se
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Tiago095-FF6B35?style=for-the-badge&logo=github&logoColor=0d1117)](https://github.com/Tiago095)
+[![GitHub](https://img.shields.io/badge/GitHub-Tiago095-FFB86C?style=for-the-badge&logo=github&logoColor=0d1117)](https://github.com/Tiago095)
 <!-- add LinkedIn / email / personal site here, if you want -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB86C,100:FF6B35&height=100&section=footer" width="100%"/>
