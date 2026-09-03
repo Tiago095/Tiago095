@@ -28,10 +28,10 @@ Currently open to new opportunities, while keeping personal projects alive in th
 <img src="https://img.shields.io/badge/Haskell-FF6B35?style=for-the-badge&logo=haskell&logoColor=white"/>
 </p>
 <p>
+<img src="https://img.shields.io/badge/Figma-FFB86C?style=for-the-badge&logo=figma&logoColor=0d1117"/>
 <img src="https://img.shields.io/badge/MySQL-FFB86C?style=for-the-badge&logo=mysql&logoColor=0d1117"/>
-<img src="https://img.shields.io/badge/PostgreSQL-FF6B35?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-FFB86C?style=for-the-badge&logo=git&logoColor=0d1117"/>
-<img src="https://img.shields.io/badge/Linux-FF6B35?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-FF6B35?style=for-the-badge&logo=git&logoColor=0d1117"/>
+<img src="https://img.shields.io/badge/Github-FFB86C?style=for-the-badge&logo=figma&logoColor=0d1117"/>
 <img src="https://img.shields.io/badge/Figma-FFB86C?style=for-the-badge&logo=figma&logoColor=0d1117"/>
 </p>
 
