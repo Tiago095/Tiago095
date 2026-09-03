@@ -1,48 +1,49 @@
 <div align="center">
 
-# Hi there, I'm Tiago
+# Tiago
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=FFB86C&center=true&vCenter=true&width=480&lines=Computer+Engineer;Turning+ideas+into+real+solutions;Clean+code+%C2%B7+Clear+thinking)](https://git.io/typing-svg)
-
-<sub>Computer Engineer · Open for Opportunities</sub>
+**Computer Engineer** — construo software com atenção ao detalhe, do sistema à interface.
 
 </div>
 
----
+<br>
 
-### About Me
+## O que faço
 
-I'm a Computer Engineer who enjoys turning ideas into real-world solutions. Every project is a chance to learn something new and write better code than yesterday.
+Trabalho na fronteira entre sistemas e produto: gosto de perceber como as coisas funcionam por dentro (C/C++, sistemas, bases de dados) e depois construir algo que as pessoas realmente usam (web, ferramentas, automação).
 
-Currently looking for opportunities to build things that matter, while keeping personal projects going and sharpening my skills in systems, web development, and problem-solving — one commit at a time.
+Atualmente disponível para novas oportunidades — e a manter projetos pessoais vivos entretanto.
 
----
+<br>
 
-### Tech Stack
+## Stack
 
-* **Languages:** C, C++, C#, Python, JavaScript, TypeScript, Haskell, HTML/CSS
-* **Databases & Tools:** MySQL, PostgreSQL, Git, GitHub, VS Code, Figma, Linux
+```
+Linguagens     C · C++ · C# · Python · JavaScript · TypeScript · Haskell
+Web            HTML · CSS
+Dados          MySQL · PostgreSQL
+Ferramentas    Git · Linux · Figma · VS Code
+```
 
----
+<br>
 
-### GitHub Stats
+## Projetos em destaque
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tiago095&show_icons=true&theme=transparent&hide_border=true&title_color=FFB86C&icon_color=FFB86C&text_color=c9d1d9&bg_color=0d1117" alt="Tiago's GitHub Stats" />
-</p>
+> Substitui isto pelos teus 2–4 projetos mais relevantes — é a secção que mais pesa num perfil.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tiago095&hide_border=true&background=0d1117&ring=FFB86C&fire=FFB86C&currStreakLabel=FFB86C&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=808080" alt="GitHub Streak" />
-</p>
+| Projeto | Descrição | Stack |
+|---|---|---|
+| [`nome-projeto`](#) | Uma frase curta e concreta sobre o que faz e porque existe. | Python, PostgreSQL |
+| [`nome-projeto`](#) | O mesmo aqui — resultado ou motivação, não só tecnologia. | TypeScript, React |
+| [`nome-projeto`](#) | E aqui. | C++ |
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiago095&layout=compact&hide_border=true&bg_color=0d1117&title_color=FFB86C&text_color=c9d1d9&langs_count=6" alt="Top Languages" />
-</p>
+<br>
 
----
+## Contacto
 
-### Contributions
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tiago095&theme=github-compact&hide_border=true&bg_color=0d1117&color=FFB86C&line=FFB86C&point=ffffff" alt="Contribution Graph" />
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-Tiago095-181717?style=flat-square&logo=github)](https://github.com/Tiago095)
+<!-- adiciona aqui LinkedIn / email / site pessoal, se quiseres -->
+
+</div>
