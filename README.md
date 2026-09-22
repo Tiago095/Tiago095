@@ -49,7 +49,7 @@ A distributed infrastructure for urban environmental monitoring: a network of se
 <img src="https://img.shields.io/badge/C%23-FF6B35?style=flat-square&logo=csharp&logoColor=0d1117"/> <img src="https://img.shields.io/badge/RabbitMQ-FF6B35?style=flat-square&logo=rabbitmq&logoColor=0d1117"/> <img src="https://img.shields.io/badge/RPC-FF6B35?style=flat-square&logoColor=0d1117"/> <img src="https://img.shields.io/badge/TCP%2FUDP-FF6B35?style=flat-square&logoColor=0d1117"/>
 
 ### [AutoMatch — Used Vehicle Marketplace](https://github.com/Tiago095/auto-marketplace)
-A used-vehicle marketplace with buyer, seller and admin profiles — advanced search, reservations, messaging and a full backoffice.
+A used-vehicle marketplace with buyer, seller and admin profiles, advanced search, reservations, messaging and a full backoffice.
 
 <img src="https://img.shields.io/badge/ASP.NET%20Core-FF6B35?style=flat-square&logo=dotnet&logoColor=0d1117"/> <img src="https://img.shields.io/badge/Entity%20Framework-FF6B35?style=flat-square&logoColor=0d1117"/> <img src="https://img.shields.io/badge/SQL%20Server-FF6B35?style=flat-square&logo=microsoftsqlserver&logoColor=0d1117"/> <img src="https://img.shields.io/badge/MVC-FF6B35?style=flat-square&logoColor=0d1117"/>
 
